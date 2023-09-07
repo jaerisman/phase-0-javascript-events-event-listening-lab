@@ -6,3 +6,4 @@ function clickAlert() {
 
 input.addEventListener('click', clickAlert);
 }
+addingEventListener();
